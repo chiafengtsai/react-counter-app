@@ -1,4 +1,4 @@
-#React Counter App
+# React Counter App
 
 ## Decrement Button
 
